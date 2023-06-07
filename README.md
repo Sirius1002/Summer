@@ -1,2 +1,3 @@
 # Summer
-Different assignments and mini projects.
+Different assignments performes during the summer
+
