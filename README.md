@@ -1,3 +1,3 @@
 # Summer
-Different assignments performes during the summer
+Different assignments performed during the summer
 
